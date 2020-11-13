@@ -1,3 +1,3 @@
 --UC6_RetreiveQuery
-select * from AddressBook
+select * from address_book 
 where city='kol' or state='wb';
